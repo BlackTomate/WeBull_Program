@@ -1,4 +1,4 @@
-# Webull
+# Webull Project
 APIs for webull, you are free to use, but code not extensively checked and Webull may update the APIs or the endpoints at any time.
 https://www.webull.com/
 
